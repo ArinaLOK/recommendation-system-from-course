@@ -27,4 +27,4 @@
 ## Запуск
 uvicorn app:app --reload
 
-
+## Проект был создан для курса karpov x ITMO ML-engeniring
