@@ -22,7 +22,7 @@
 * **Модель:** CatBoostRegressor
 * **Обработка текста:** CatBoost Text Features
 * **Метрика качества:** HitRate
-* **Лучший результат:** **HitRate = 0.52+**
+* **Лучший результат:** **HitRate = 0.55+**
 
 ## Запуск
 uvicorn app:app --reload
